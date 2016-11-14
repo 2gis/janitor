@@ -1,0 +1,26 @@
+[Unit]
+Description=Clean up docker storage
+
+[Service]
+TimeoutStartSec=20m
+EnvironmentFile=/etc/environment
+Environment='IMAGE=my/janitor'
+ExecStartPre=/bin/sh -c 'docker pull ${IMAGE}'
+ExecStartPre=-/bin/sh -c 'docker rm -f janitor'
+ExecStart=/usr/bin/sh -c 'docker run \
+    --rm \
+    --name janitor \
+    --env ETCD_HOST=127.0.0.1 \
+    --env DELETE_IMAGES=1 \
+    --env DELETE_CONTAINERS=1 \
+    --env TZ=Europe/Moscow \
+    --env CRON_HOUR=8 \
+    --env VERSION_MAX_COUNT=1 \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    ${IMAGE}'
+ExecStop=-/usr/bin/docker stop janitor
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

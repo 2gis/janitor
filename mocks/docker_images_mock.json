@@ -1,0 +1,187 @@
+[
+    {
+        "Created": 1462506853, 
+        "Labels": {}, 
+        "VirtualSize": 149271981, 
+        "ParentId": "sha256:e08fb09af9a8415c7c1591e0c581d6021eedd3c0190f52fd8ca7af02559c0b79", 
+        "RepoTags": [
+            "my-team/janitor:latest"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:f79b4a7e1d91b9c8ffb0f3d60c12123fa78e7e12b6fba9e8c540d81c431a253b", 
+        "Size": 149271981
+    }, 
+    {
+        "Created": 1462443316, 
+        "Labels": {}, 
+        "VirtualSize": 149271980, 
+        "ParentId": "sha256:394edb37a1e60d58880c29eca71b3d34423383d4175fe8a5360b03587ae3380f", 
+        "RepoTags": [
+            "my-docker-hub.org.com/my-team/janitor:1.1", 
+            "my-docker-hub.org.com/my-team/janitor:latest"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:312d98a0c5db0a93a82afab0e906fe4ca1feac75c32febcff471b380ee40c8b4", 
+        "Size": 149271980
+    }, 
+    {
+        "Created": 1462339524, 
+        "Labels": {}, 
+        "VirtualSize": 263627036, 
+        "ParentId": "sha256:aa45b6ffe6b2c67ae2c393250b459532c8c21cf6d06992fcbb0e600771194443", 
+        "RepoTags": [
+            "deis/test-postgresql:git-ac6f470"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:06f715a5046c96b9b6c969a07653efd9336a97ca5c4694b6e5f8d0a019bfd390", 
+        "Size": 263627036
+    }, 
+    {
+        "Created": 1462339476, 
+        "Labels": {}, 
+        "VirtualSize": 28209048, 
+        "ParentId": "sha256:91b632510513dcd7e7715a03cd5b05185f08377ca8f59f1162d69b17446c2f3d", 
+        "RepoTags": [
+            "deis/test-etcd:git-ac6f470"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:7746b891545e49851cd88d19310158a84afa77aed38f4b9e71cd09a62df0a371", 
+        "Size": 28209048
+    }, 
+    {
+        "Created": 1462201690, 
+        "Labels": {}, 
+        "VirtualSize": 142441155, 
+        "ParentId": "sha256:187138397de7c1de109b4b55026467185aa36e77aff2706604a2f35970cd3844", 
+        "RepoTags": [
+            "my-team/base-alpine:latest"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:8bf6fac01ece0deec5167eaea5e946ce4922a39d16f308ba4d8e684391b4f950", 
+        "Size": 142441155
+    }, 
+    {
+        "Created": 1459825687, 
+        "Labels": {}, 
+        "VirtualSize": 263627004, 
+        "ParentId": "", 
+        "RepoTags": [
+            "postgres:9.3"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:aa45b6ffe6b2c67ae2c393250b459532c8c21cf6d06992fcbb0e600771194443", 
+        "Size": 263627004
+    }, 
+    {
+        "Created": 1459543980, 
+        "Labels": null, 
+        "VirtualSize": 4798063, 
+        "ParentId": "", 
+        "RepoTags": [
+            "alpine:3.3"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:d7a513a663c1a6dcdba9ed832ca53c02ac2af0c333322cd6ca92936d1d9917ac", 
+        "Size": 4798063
+    }, 
+    {
+        "Created": 1458325368, 
+        "Labels": {}, 
+        "VirtualSize": 1112820, 
+        "ParentId": "", 
+        "RepoTags": [
+            "busybox:latest"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Size": 1112820
+    }, 
+    {
+        "Created": 1455273204, 
+        "Labels": {}, 
+        "VirtualSize": 38457859, 
+        "ParentId": "sha256:5bcba7d913228f96356d0d4ccec8011ea68c4e6260da1c5922d7fbec72a72798", 
+        "RepoTags": [
+            "deis/router:git-ac43729"
+        ], 
+        "RepoDigests": null, 
+        "Id": "sha256:c004a652156dd6da11783b41f6063bbe0c63801df78d4c4f71a858a730080f14", 
+        "Size": 38457859
+    }, 
+    {
+        "Created": 1444793698,
+        "Labels": null,
+        "VirtualSize": 87087291,
+        "ParentId": "",
+        "RepoTags": [
+            "ubuntu-debootstrap:14.04"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:898cb62b73684611dcb1f478fa1731683cabc30ddbdc692b0fb027b69cec1033",
+        "Size": 87087291
+    },
+    {
+        "Created": 1444340548,
+        "Labels": null,
+        "VirtualSize": 187932239,
+        "ParentId": "sha256:a9448eeeab5d315ff5e000337ffe0f3bbfd8b86210b1f64b40a4b8c41ded316f",
+        "RepoTags": [
+            "ubuntu:latest"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:58fd0b7b349755c9a99e99cc2da52c80e06c5c8197a629e6807f64bfe6fa5301",
+        "Size": 187932239
+    },
+    {
+        "Created": 1442260874,
+        "Labels": null,
+        "VirtualSize": 5244426,
+        "ParentId": "",
+        "RepoTags": [
+            "alpine:3.2",
+            "alpine:latest"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:558af09712a4f6e662c6e47be3371c8a795aff766cbf5bc01fac29d6049e31ef",
+        "Size": 5244426
+    },
+    {
+        "Created": 1440102075,
+        "Labels": {},
+        "VirtualSize": 188333286,
+        "ParentId": "sha256:800b0e53951c1d3a8f0f49b20661f0646b1aa41c19d1fb4cc637525a8a88305e",
+        "RepoTags": [
+            "ubuntu:14.04",
+            "ubuntu:trusty"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:0109b6d281310b5f0f0ba2295963282b55741cd16cb04341f1eb4ced6851e869",
+        "Size": 188333286
+    },
+    {
+        "Created": 1430371566,
+        "Labels": {},
+        "VirtualSize": 213931717,
+        "ParentId": "",
+        "RepoTags": [
+            "10.21.12.228:5000/shiny-service:v8"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:1d563e78b1d0e5b7e6da34266a7942d69a586d8496db292a40611820d2305e7e",
+        "Size": 213931717
+    },
+    {
+        "Created": 1440102075,
+        "Labels": {},
+        "VirtualSize": 188333286,
+        "ParentId": "sha256:800b0e53951c1d3a8f0f49b20661f0646b1aa41c19d1fb4cc637525a8a88307e",
+        "RepoTags": [
+            "10.21.12.228:5000/my-shiny-service:v1",
+            "10.21.12.228:5000/my-shiny-service:v2",
+            "10.21.12.228:5000/my-shiny-service:v3"
+        ],
+        "RepoDigests": null,
+        "Id": "sha256:0109b6d281310b5f0f0ba2295963282b55741cd16cb04341f1eb4ced6851e868",
+        "Size": 188333286
+    }
+]
