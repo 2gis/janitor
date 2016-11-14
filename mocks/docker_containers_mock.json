@@ -1,0 +1,342 @@
+[
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511640, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "ls -la", 
+        "Names": [
+            "/sad_payne"
+        ], 
+        "Id": "40b0f218fc5ba5017fcbe662a40617623b608617480eef1a6b8d66d6a1d25c37", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511638, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "ls -la", 
+        "Names": [
+            "/boring_poitras"
+        ], 
+        "Id": "491a32971058513b1b7c9950e8275174d2e7d919bb248915b7d3585180b77d08", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511636, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "ls -la", 
+        "Names": [
+            "/sick_stallman"
+        ], 
+        "Id": "1579588ca847006dae5aa81c55a7941e463086a9e27a4b691eac3eef10fb1a16", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511635, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "ls -la", 
+        "Names": [
+            "/stupefied_hawking"
+        ], 
+        "Id": "410d6952c12e9b0f8411bf923ba7a34a953fcd370546b66fcb78ec472b123302", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511633, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "ls -la", 
+        "Names": [
+            "/silly_franklin"
+        ], 
+        "Id": "5f352200cc22234a8d72421264a01266de189cab0655e37e87e1271a3d600417", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (0) 2 minutes ago", 
+        "Created": 1462511630, 
+        "Image": "busybox", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:47bcc53f74dc94b1920f0b34f6036096526296767650f223433fe65c35f149eb", 
+        "Command": "touch /mount/file1", 
+        "Names": [
+            "/deis-builder-data"
+        ], 
+        "Id": "7e4abf1505b2722b80bda1a7164d5155dd56736346c7c97e45b4465f6460a95a", 
+        "Ports": []
+    },
+    {
+        "Status": "Exited (64) 3 weeks ago", 
+        "Created": 1458795960, 
+        "Image": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470", 
+        "Command": "/docker-entrypoint.sh -Ddiscovery.zen.ping.unicast.hosts:[172.17.0.1:9300, 172.17.0.1:9301]", 
+        "Names": [
+            "/elastic2"
+        ], 
+        "Id": "8cff5f65bba114091ddd140fd4660732af44544f0832c806a0fb514d087cb560", 
+        "Ports": []
+    }, 
+    {
+        "Status": "Exited (64) 3 weeks ago", 
+        "Created": 1458795958, 
+        "Image": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470", 
+        "Labels": {}, 
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "", 
+                    "MacAddress": "", 
+                    "GlobalIPv6PrefixLen": 0, 
+                    "Links": null, 
+                    "GlobalIPv6Address": "", 
+                    "IPv6Gateway": "", 
+                    "IPAMConfig": null, 
+                    "EndpointID": "", 
+                    "IPPrefixLen": 0, 
+                    "IPAddress": "", 
+                    "Gateway": "", 
+                    "Aliases": null
+                }
+            }
+        }, 
+        "HostConfig": {
+            "NetworkMode": "default"
+        }, 
+        "ImageID": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470", 
+        "Command": "/docker-entrypoint.sh -Ddiscovery.zen.ping.unicast.hosts:[172.17.0.1:9300, 172.17.0.1:9301]", 
+        "Names": [
+            "/elastic1"
+        ],
+        "Id": "8a39e55ec438f71f995652c1d8bf0d6f99da46206e153260e9ce3bbb4264ca35",
+        "Ports": []
+    },
+    {
+        "Status": "Exited (143) 2 weeks ago",
+        "Created": 1458286193,
+        "Image": "sha256:b8d69cae37d4e8d73ef706fd1f0b39e0c11c9d4dacda37ff9215a82f442f42e5",
+        "Labels": {},
+        "NetworkSettings": {
+            "Networks": {
+                "bridge": {
+                    "NetworkID": "",
+                    "MacAddress": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "Links": null,
+                    "GlobalIPv6Address": "",
+                    "IPv6Gateway": "",
+                    "IPAMConfig": null,
+                    "EndpointID": "",
+                    "IPPrefixLen": 0,
+                    "IPAddress": "",
+                    "Gateway": "",
+                    "Aliases": null
+                }
+            }
+        },
+        "HostConfig": {
+            "NetworkMode": "default"
+        },
+        "ImageID": "sha256:b8d69cae37d4e8d73ef706fd1f0b39e0c11c9d4dacda37ff9215a82f442f42e5",
+        "Command": "/docker-entrypoint.sh kibana",
+        "Names": [
+            "/kibana"
+        ],
+        "Id": "efe11956a0c7ca5741fdf181b5351e2ae19c0d2b6a2dcb0c2f871a87fd593a0e",
+        "Ports": []
+    },
+    {
+        "Status": "Exited (137) 2 weeks ago",
+        "Created": 1458276176,
+        "Image": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470",
+        "Labels": {},
+        "NetworkSettings": {
+            "Networks": {
+                "host": {
+                    "NetworkID": "",
+                    "MacAddress": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "Links": null,
+                    "GlobalIPv6Address": "",
+                    "IPv6Gateway": "",
+                    "IPAMConfig": null,
+                    "EndpointID": "",
+                    "IPPrefixLen": 0,
+                    "IPAddress": "",
+                    "Gateway": "",
+                    "Aliases": null
+                }
+            }
+        },
+        "HostConfig": {
+            "NetworkMode": "host"
+        },
+        "ImageID": "sha256:51340b3eab019ea2fd34eb9a8b71f1b9ada06e34ca9451210f4b1c1d267c5470",
+        "Command": "/docker-entrypoint.sh elasticsearch",
+        "Names": [
+            "/elastic"
+        ],
+        "Id": "e79a9600c124227eeaf98a2c8f612220c6088eca85b793411e9638918ea5ac30",
+        "Ports": []
+    }
+]
